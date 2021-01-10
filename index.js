@@ -8,7 +8,6 @@ const fs = require("fs");
 const cheerio = require('cheerio');
 const axios = require('axios');
 
-const feedUrl = "https://www.mokkapps.de/rss.xml";
 const websiteUrl = "http://vladimirgorej.com/";
 const twitterUrl = "https://www.twitter.com/vladimirgorej";
 const linkedInUrl = "https://www.linkedin.com/in/vladimirgorej";
@@ -27,7 +26,7 @@ md.use(emoji);
         console.error(`Failed to load blog posts from ${websiteUrl}`, e);
     }
 
-    const twitterImage = `[<img src="https://github.com/char0n/char0n/blob/master/tweet.png" width="600">](${twitterUrl})`;
+    const twitterImage = `[<img src="https://raw.githubusercontent.com/char0n/char0n/main/tweet.png" width="600">](${twitterUrl})`;
     const twitterBadge = `[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=${badgeHeight}>](${twitterUrl})`;
     const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
     const mediumBadge = `[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=${badgeHeight}>](${mediumUrl})`;
@@ -64,7 +63,7 @@ async function loadBlogPosts() {
     });
     let links = "";
     const $ = cheerio.load(data);
-    $('.article-card').slice(0, 5).each(function() {
+    $('.article-card').slice(0, blogPostLimit).each(function() {
        const card = $(this);
        const imageUrl = card.find('.article-card__image').first().attr('data-delayed-url');
        const title = card.find('.article-card__image').first().attr('alt');
@@ -83,6 +82,6 @@ ${date}
 
     return `
   ${links}\n
-  [:arrow_right: More blog posts](https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link&utm_source=juniorguru&utm_medium=content&utm_campaign=juniorguru)
+  [:arrow_right: More blog posts](https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link)
   `;
 }
