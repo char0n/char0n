@@ -30,7 +30,7 @@
 <pre><code>November 3, 2019
 </code></pre>
 <hr>
-<p><a href="https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link&amp;utm_source=juniorguru&amp;utm_medium=content&amp;utm_campaign=juniorguru">➡️ More blog posts</a></p>
+<p><a href="https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link">➡️ More blog posts</a></p>
 <h2>Last Tweet</h2>
 <p><a href="https://www.twitter.com/vladimirgorej"><img src="https://raw.githubusercontent.com/char0n/char0n/main/tweet.png" width="600"></a></p>
 <h2>GitHub Stats</h2>
