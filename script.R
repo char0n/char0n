@@ -3,7 +3,7 @@ library(rtweet)
 
 lasttweet_token <- function() {
   create_token(
-    "github-readme-last-tweet",
+    "github-char0n-readme",
     consumer_key = Sys.getenv("CONSUMER_KEY"),
     consumer_secret = Sys.getenv("CONSUMER_SECRET"),
     access_token = Sys.getenv("ACCESS_TOKEN"),
