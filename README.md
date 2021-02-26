@@ -5,6 +5,11 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHK_s_FE8kVwQ/article-cover_image-shrink_600_2000/0/1614265471653?e=1619654400&v=beta&t=Ch6MOvQYjavIgqIru5s0_TOqXXay8rLpIQuQRdRhEjE"></a></p>
+<p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title">How Swagger Adjust can help you build extensible React+Redux apps</a></p>
+<pre><code>February 25, 2021
+</code></pre>
+<hr>
 <p><a href="https://www.linkedin.com/pulse/how-keep-your-npm-dependencies-up-to-date-without-wasting-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHJqeVq0GQCXg/article-cover_image-shrink_600_2000/0/1605983118490?e=1619654400&v=beta&t=bLAFy6HNrpbvM86hhL69QmN3-jQyrKuzhLyVfa73rM4"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-keep-your-npm-dependencies-up-to-date-without-wasting-gorej?trk=portfolio_article-card_title">How to keep your npm dependencies up-to-date without wasting your time </a></p>
 <pre><code>December 15, 2020
@@ -23,11 +28,6 @@
 <p><a href="https://www.linkedin.com/pulse/generate-api-documentation-effortlessly-from-your-code-vladim%C3%ADr-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHCuLhBidbGLQ/article-cover_image-shrink_600_2000/0/1578165854729?e=1619654400&v=beta&t=5ot_D15V7YR1Xsz7sW82P2XF2G1mef26O601MNCQimk"></a></p>
 <p><a href="https://www.linkedin.com/pulse/generate-api-documentation-effortlessly-from-your-code-vladim%C3%ADr-gorej?trk=portfolio_article-card_title">Generate API Documentation  Effortlessly from your Phoenix/Elixir code - Part1</a></p>
 <pre><code>January 20, 2020
-</code></pre>
-<hr>
-<p><a href="https://www.linkedin.com/pulse/hacktoberfest-effect-simple-oss-t-shirt-initiative-random-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQFWhuhFGTSoKw/article-cover_image-shrink_600_2000/0/1572775853599?e=1619654400&v=beta&t=TFvLSYZTbU0mVgPOHNcD9HQ4-IRGvroYuLKHCqMZX7M"></a></p>
-<p><a href="https://www.linkedin.com/pulse/hacktoberfest-effect-simple-oss-t-shirt-initiative-random-gorej?trk=portfolio_article-card_title">Hacktoberfest: effect of an simple OSS T-Shirt initiative on a random OSS library</a></p>
-<pre><code>November 3, 2019
 </code></pre>
 <hr>
 <p><a href="https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link">➡️ More blog posts</a></p>
