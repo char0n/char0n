@@ -5,6 +5,11 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://www.linkedin.com/pulse/how-validate-openapi-definitions-swagger-editor-using-vladim%C3%ADr-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHW41125fKGbg/article-cover_image-shrink_600_2000/0/1615132805293?e=1620864000&v=beta&t=2O1bSQg5cu6bsGZ7oVwg6CxOAXtmlSp0Y2wjDFq4EqY"></a></p>
+<p><a href="https://www.linkedin.com/pulse/how-validate-openapi-definitions-swagger-editor-using-vladim%C3%ADr-gorej?trk=portfolio_article-card_title">How to validate OpenAPI definitions in Swagger Editor using GitHub Actions</a></p>
+<pre><code>March 7, 2021
+</code></pre>
+<hr>
 <p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHK_s_FE8kVwQ/article-cover_image-shrink_600_2000/0/1614265471653?e=1620864000&v=beta&t=3GaMq6nZA-mHaQzGyfV6rqvhU1gKPqZKxRN64owa75Y"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title">How Swagger Adjust can help you build extensible React+Redux apps</a></p>
 <pre><code>February 25, 2021
@@ -23,11 +28,6 @@
 <p><a href="https://www.linkedin.com/pulse/how-use-npm-audit-continuous-integration-3-simple-steps-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQF89tAznrEA0Q/article-cover_image-shrink_600_2000/0/1593872507953?e=1620864000&v=beta&t=JYbWONFN8Fi2j-YpkU3sV30_sioaFqTylaLiZBc4Mrk"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-use-npm-audit-continuous-integration-3-simple-steps-gorej?trk=portfolio_article-card_title">How to use npm audit with Continuous Integration in 3 simple steps</a></p>
 <pre><code>July 6, 2020
-</code></pre>
-<hr>
-<p><a href="https://www.linkedin.com/pulse/generate-api-documentation-effortlessly-from-your-code-vladim%C3%ADr-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHCuLhBidbGLQ/article-cover_image-shrink_600_2000/0/1578165854729?e=1620864000&v=beta&t=dkqAt9WMlxCu0s9aioYBPjz8DAF2dOkkgoma8lKDdhI"></a></p>
-<p><a href="https://www.linkedin.com/pulse/generate-api-documentation-effortlessly-from-your-code-vladim%C3%ADr-gorej?trk=portfolio_article-card_title">Generate API Documentation  Effortlessly from your Phoenix/Elixir code - Part1</a></p>
-<pre><code>January 20, 2020
 </code></pre>
 <hr>
 <p><a href="https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link">➡️ More blog posts</a></p>
