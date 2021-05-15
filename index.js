@@ -8,7 +8,7 @@ const fs = require("fs");
 const cheerio = require('cheerio');
 const axios = require('axios');
 
-const websiteUrl = "http://vladimirgorej.com/";
+const websiteUrl = "https://vladimirgorej.com/";
 const twitterUrl = "https://www.twitter.com/vladimirgorej";
 const linkedInUrl = "https://www.linkedin.com/in/vladimirgorej";
 const mediumUrl = "https://medium.com/@vladimirgorej";
