@@ -55,7 +55,7 @@ md.use(emoji);
 async function loadBlogPosts() {
     const { data } = await axios.get('https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link', {
         headers: {
-            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280',
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 ',
         },
     });
     let links = "";
