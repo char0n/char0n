@@ -26,7 +26,6 @@ md.use(emoji);
         console.error(`Failed to load blog posts from ${websiteUrl}`, e);
     }
 
-    const twitterImage = `[<img src="https://raw.githubusercontent.com/char0n/char0n/main/tweet.png" width="600">](${twitterUrl})`;
     const twitterBadge = `[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=${badgeHeight}>](${twitterUrl})`;
     const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
     const mediumBadge = `[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=${badgeHeight}>](${mediumUrl})`;
@@ -42,8 +41,6 @@ md.use(emoji);
   ${githubSponsors}\n\n
   ## Latest Blog Posts\n
   ${blogPosts}\n
-  ## Last Tweet\n
-  ${twitterImage}\n\n
   ## GitHub Stats\n
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=char0n&show_icons=true)`;
 
