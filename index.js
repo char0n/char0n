@@ -66,7 +66,7 @@ md.use(emoji);
   ${githubSponsors}\n\n
   ## Latest Blog Posts\n
   ${blogPosts}\n
-    ## Last Tweet\n
+  ## Last Tweet\n
   ${twitterImage}\n\n
   ## GitHub Stats\n
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=char0n&show_icons=true)`;
