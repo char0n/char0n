@@ -50,7 +50,7 @@ md.use(emoji);
                         </code></pre>`;
     }
 
-    const twitterImage = '[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=vladimirgorej&layout=wide)](https://twitter.com/vladimirgorej)';
+    const twitterImage = `[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=vladimirgorej&layout=wide)](${twitterUrl})`;
     const twitterBadge = `[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=${badgeHeight}>](${twitterUrl})`;
     const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
     const mediumBadge = `[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=${badgeHeight}>](${mediumUrl})`;
@@ -67,7 +67,9 @@ md.use(emoji);
   ## Latest Blog Posts\n
   ${blogPosts}\n
   ## Latest Tweets\n
-  ${twitterImage}\n\n
+  ${twitterImage}\n
+  [:arrow_right: More tweets](${twitterUrl})
+  \n\n
   ## GitHub Stats\n
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=char0n&show_icons=true)`;
 
