@@ -31,8 +31,7 @@
 </code></pre>
 <hr>
 <p><a href="https://www.linkedin.com/today/author/vladimirgorej?trk=author-info__article-link">➡️ More blog posts</a></p>
-<pre><code>## Last Tweet
-</code></pre>
+<h2>Last Tweet</h2>
 <p><a href="https://twitter.com/vladimirgorej"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=vladimirgorej?layout=wide" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=char0n&amp;show_icons=true" alt="GitHub Stats"></p>
