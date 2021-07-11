@@ -5,27 +5,27 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
-<p><a href="https://www.linkedin.com/pulse/how-validate-openapi-definitions-swagger-editor-using-vladim%C3%ADr-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHW41125fKGbg/article-cover_image-shrink_600_2000/0/1615132805293?e=1631145600&v=beta&t=nZr-oO70s6NDvhnjel-aZIJW8TlKPk7LjD4e9rXhFHQ"></a></p>
+<p><a href="https://www.linkedin.com/pulse/how-validate-openapi-definitions-swagger-editor-using-vladim%C3%ADr-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D12AQHW41125fKGbg/article-cover_image-shrink_600_2000/0/1615132805293?e=1631750400&v=beta&t=O6alRRCwsMGRNpmgPMhxNljwNd7MB6cFxtSWQL1y4m8"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-validate-openapi-definitions-swagger-editor-using-vladim%C3%ADr-gorej?trk=portfolio_article-card_title">How to validate OpenAPI definitions in Swagger Editor using GitHub Actions</a></p>
 <pre><code>March 7, 2021
 </code></pre>
 <hr>
-<p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQHK_s_FE8kVwQ/article-cover_image-shrink_600_2000/0/1614265471653?e=1631145600&v=beta&t=rw5sZ62NSbpkNnbGIbtzNpf_harstbUP975xY3yHJys"></a></p>
+<p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQHK_s_FE8kVwQ/article-cover_image-shrink_600_2000/0/1614265471653?e=1631750400&v=beta&t=lqFV5ZVUevAMFXuxLyXVw08TJfPvL2KXCmM9XHKRMn8"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-swagger-adjust-can-help-you-build-extensible-reactredux-gorej?trk=portfolio_article-card_title">How Swagger Adjust can help you build extensible React+Redux apps</a></p>
 <pre><code>February 25, 2021
 </code></pre>
 <hr>
-<p><a href="https://www.linkedin.com/pulse/how-keep-your-npm-dependencies-up-to-date-without-wasting-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQHJqeVq0GQCXg/article-cover_image-shrink_600_2000/0/1605983118490?e=1631145600&v=beta&t=MOK1yNgi6HPoPF97z2J3SUbh3r6N-MVjp0VRIKdiKak"></a></p>
+<p><a href="https://www.linkedin.com/pulse/how-keep-your-npm-dependencies-up-to-date-without-wasting-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQHJqeVq0GQCXg/article-cover_image-shrink_600_2000/0/1605983118490?e=1631750400&v=beta&t=mMlZherVBXU5H9_Jy4lB4dq-WVi9gGGh_JpHMzEoBtw"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-keep-your-npm-dependencies-up-to-date-without-wasting-gorej?trk=portfolio_article-card_title">How to keep your npm dependencies up-to-date without wasting your time </a></p>
 <pre><code>December 15, 2020
 </code></pre>
 <hr>
-<p><a href="https://www.linkedin.com/pulse/things-i-wish-had-known-when-started-javascript-monorepo-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQFsMUk8jSHJeg/article-cover_image-shrink_600_2000/0/1599334464464?e=1631145600&v=beta&t=CvocQ0yyj2WHffDeNjuIz_C6D5B4Jhd12DHcyUknZ4E"></a></p>
+<p><a href="https://www.linkedin.com/pulse/things-i-wish-had-known-when-started-javascript-monorepo-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQFsMUk8jSHJeg/article-cover_image-shrink_600_2000/0/1599334464464?e=1631750400&v=beta&t=-0kH7r-0HaTDArekA1jEEsrRgXaYVSXZvGlM6yjUVVk"></a></p>
 <p><a href="https://www.linkedin.com/pulse/things-i-wish-had-known-when-started-javascript-monorepo-gorej?trk=portfolio_article-card_title">Things I wish I had known when I started JavaScript monorepo with Lerna</a></p>
 <pre><code>September 7, 2020
 </code></pre>
 <hr>
-<p><a href="https://www.linkedin.com/pulse/how-use-npm-audit-continuous-integration-3-simple-steps-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQF89tAznrEA0Q/article-cover_image-shrink_600_2000/0/1593872507953?e=1631145600&v=beta&t=6S9t2fVm-SfapAwkfN9R9hdSt80gyJF77tq2vd0bMEk"></a></p>
+<p><a href="https://www.linkedin.com/pulse/how-use-npm-audit-continuous-integration-3-simple-steps-gorej?trk=portfolio_article-card_title" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://media-exp3.licdn.com/dms/image/C4D12AQF89tAznrEA0Q/article-cover_image-shrink_600_2000/0/1593872507953?e=1631750400&v=beta&t=8k6cXJ8TUgPlZ53vr3YT8mabGvRRbYDuKLjUMh9z33M"></a></p>
 <p><a href="https://www.linkedin.com/pulse/how-use-npm-audit-continuous-integration-3-simple-steps-gorej?trk=portfolio_article-card_title">How to use npm audit with Continuous Integration in 3 simple steps</a></p>
 <pre><code>July 6, 2020
 </code></pre>
