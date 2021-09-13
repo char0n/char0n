@@ -7,17 +7,17 @@
 <h2>Latest Blog Posts</h2>
 <p><a href="https://vladimirgorej.com/blog/things-i-have-learned-maintaining-javascript-monorepo-with-lerna/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/taming-lerna.png"></a></p>
 <p><a href="https://vladimirgorej.com/blog/things-i-have-learned-maintaining-javascript-monorepo-with-lerna/">Things I have learned while maintaining JavaScript monorepo with Lerna</a></p>
-<pre><code>2021-09-07T12:15:00+00:00
+<pre><code>Tue Sep 07 2021
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/how-to-validate-openapi-definitions-in-swagger-editor-using-github-actions/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-editor-validate.png"></a></p>
 <p><a href="https://vladimirgorej.com/blog/how-to-validate-openapi-definitions-in-swagger-editor-using-github-actions/">How to validate OpenAPI definitions in Swagger Editor using GitHub Actions</a></p>
-<pre><code>2021-03-07T08:39:04+00:00
+<pre><code>Sun Mar 07 2021
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/how-swagger-adjust-can-help-you-build-extensible-react-redux-apps/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-adjust.png"></a></p>
 <p><a href="https://vladimirgorej.com/blog/how-swagger-adjust-can-help-you-build-extensible-react-redux-apps/">How Swagger Adjust can help you build extensible React+Redux apps</a></p>
-<pre><code>2021-02-25T08:39:04+00:00
+<pre><code>Thu Feb 25 2021
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/">➡️ More blog posts</a></p>

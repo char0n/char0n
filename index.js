@@ -64,10 +64,10 @@ async function loadBlogPosts() {
     // gets a single child element by tag name
     const t = (entry, tname) => entry.getElementsByTagName(tname)[0];
     // get date from an entry element
-    const date = entry => new Date(t(entry, 'published').textContent).getDate();
+    const dateFormat = entry => new Date(t(entry, 'published').textContent).toDateString();
     const articles = xmlEntries.map(entry => {
        const imageUrl = t(entry, 'media:thumbnail').getAttribute('url');
-       const date = t(entry, 'published').textContent;
+       const date = dateFormat(entry);
        const title = t(entry, 'title').textContent;
        const url = t(entry, 'content').getAttribute('xml:base')
 
