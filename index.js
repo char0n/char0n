@@ -59,13 +59,12 @@ async function loadBlogPosts() {
     });
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(data, 'text/xml')
-    const allXmlEntries = Array.from(xmlDoc.getElementsByTagName('entry'));
-    const xmlEntries = allXmlEntries.slice(0, 5);
+    const xmlEntries = Array.from(xmlDoc.getElementsByTagName('entry')).slice(0, blogPostLimit);
     // gets a single child element by tag name
     const t = (entry, tname) => entry.getElementsByTagName(tname)[0];
     // get date from an entry element
     const dateFormat = entry => new Date(t(entry, 'published').textContent).toDateString();
-    const articles = xmlEntries.map(entry => {
+    const blogPosts = xmlEntries.map(entry => {
        const imageUrl = t(entry, 'media:thumbnail').getAttribute('url');
        const date = dateFormat(entry);
        const title = t(entry, 'title').textContent;
@@ -82,7 +81,7 @@ ${date}
     });
 
     return `
-  ${articles.join('')}\n
+  ${blogPosts.join('')}\n
   [:arrow_right: More blog posts](${websiteUrl}blog/)
   `;
 }
