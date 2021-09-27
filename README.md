@@ -20,6 +20,11 @@
 <pre><code>Thu Feb 25 2021
 </code></pre>
 <hr>
+<p><a href="https://vladimirgorej.com/blog/composing-lenses-in-ramda/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/composing-lenses-in-ramda.jpg"></a></p>
+<p><a href="https://vladimirgorej.com/blog/composing-lenses-in-ramda/">Composing lenses in Ramda</a></p>
+<pre><code>Wed Jan 04 2017
+</code></pre>
+<hr>
 <p><a href="https://vladimirgorej.com/blog/">➡️ More blog posts</a></p>
 <h2>Latest Tweets</h2>
 <p><a href="https://www.twitter.com/vladimirgorej"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=vladimirgorej&amp;layout=wide" alt="github-readme-twitter"></a></p>
