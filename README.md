@@ -5,6 +5,11 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://vladimirgorej.com/blog/how-to-apply-apache2-license-to-your-open-source-software-project/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/apache-logo.svg"></a></p>
+<p><a href="https://vladimirgorej.com/blog/how-to-apply-apache2-license-to-your-open-source-software-project/">How to apply the Apache 2.0 License to your Open Source software project</a></p>
+<pre><code>Sat Oct 02 2021
+</code></pre>
+<hr>
 <p><a href="https://vladimirgorej.com/blog/things-i-have-learned-maintaining-javascript-monorepo-with-lerna/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/taming-lerna.png"></a></p>
 <p><a href="https://vladimirgorej.com/blog/things-i-have-learned-maintaining-javascript-monorepo-with-lerna/">Things I have learned while maintaining JavaScript monorepo with Lerna</a></p>
 <pre><code>Tue Sep 07 2021
