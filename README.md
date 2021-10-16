@@ -5,6 +5,11 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://vladimirgorej.com/blog/how-to-migrate-from-querystring-to-url-search-params-in-nodejs/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/querystring-migration.jpeg"></a></p>
+<p><a href="https://vladimirgorej.com/blog/how-to-migrate-from-querystring-to-url-search-params-in-nodejs/">How to migrate from querystring to URLSearchParams in Node.js</a></p>
+<pre><code>Thu Oct 14 2021
+</code></pre>
+<hr>
 <p><a href="https://vladimirgorej.com/blog/how-to-apply-apache2-license-to-your-open-source-software-project/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/apache-logo.png"></a></p>
 <p><a href="https://vladimirgorej.com/blog/how-to-apply-apache2-license-to-your-open-source-software-project/">How to apply the Apache 2.0 License to your Open Source software project</a></p>
 <pre><code>Sat Oct 02 2021
@@ -23,11 +28,6 @@
 <p><a href="https://vladimirgorej.com/blog/how-swagger-adjust-can-help-you-build-extensible-react-redux-apps/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-adjust.png"></a></p>
 <p><a href="https://vladimirgorej.com/blog/how-swagger-adjust-can-help-you-build-extensible-react-redux-apps/">How Swagger Adjust can help you build extensible React+Redux apps</a></p>
 <pre><code>Thu Feb 25 2021
-</code></pre>
-<hr>
-<p><a href="https://vladimirgorej.com/blog/composing-lenses-in-ramda/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/composing-lenses-in-ramda.jpg"></a></p>
-<p><a href="https://vladimirgorej.com/blog/composing-lenses-in-ramda/">Composing lenses in Ramda</a></p>
-<pre><code>Wed Jan 04 2017
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/">➡️ More blog posts</a></p>
