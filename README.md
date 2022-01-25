@@ -5,6 +5,11 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://vladimirgorej.com/blog/swagger-ui-error-handling/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-ui-error-handling.webp"></a></p>
+<p><a href="https://vladimirgorej.com/blog/swagger-ui-error-handling/">How to handle errors in SwaggerUI</a></p>
+<pre><code>Mon Jan 24 2022
+</code></pre>
+<hr>
 <p><a href="https://vladimirgorej.com/blog/how-to-migrate-from-querystring-to-url-search-params-in-nodejs/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/querystring-migration.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/how-to-migrate-from-querystring-to-url-search-params-in-nodejs/">How to migrate from querystring to URLSearchParams in Node.js</a></p>
 <pre><code>Thu Oct 14 2021
@@ -23,11 +28,6 @@
 <p><a href="https://vladimirgorej.com/blog/how-to-validate-openapi-definitions-in-swagger-editor-using-github-actions/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-editor-validate.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/how-to-validate-openapi-definitions-in-swagger-editor-using-github-actions/">How to validate OpenAPI definitions in Swagger Editor using GitHub Actions</a></p>
 <pre><code>Sun Mar 07 2021
-</code></pre>
-<hr>
-<p><a href="https://vladimirgorej.com/blog/how-swagger-adjust-can-help-you-build-extensible-react-redux-apps/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-adjust.webp"></a></p>
-<p><a href="https://vladimirgorej.com/blog/how-swagger-adjust-can-help-you-build-extensible-react-redux-apps/">How Swagger Adjust can help you build extensible React+Redux apps</a></p>
-<pre><code>Thu Feb 25 2021
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/">➡️ More blog posts</a></p>
