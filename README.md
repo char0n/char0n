@@ -5,6 +5,11 @@
       Sponsor me through GitHub
     </a>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://vladimirgorej.com/blog/advanced-memoization-for-javascript-functions-with-lodash-memoize/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/lodash.webp"></a></p>
+<p><a href="https://vladimirgorej.com/blog/advanced-memoization-for-javascript-functions-with-lodash-memoize/">Advanced memoization for JavaScript functions with lodash.memoize</a></p>
+<pre><code>Sat Feb 05 2022
+</code></pre>
+<hr>
 <p><a href="https://vladimirgorej.com/blog/swagger-ui-error-handling/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-ui-error-handling.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/swagger-ui-error-handling/">How to handle errors in SwaggerUI</a></p>
 <pre><code>Mon Jan 24 2022
@@ -23,11 +28,6 @@
 <p><a href="https://vladimirgorej.com/blog/things-i-have-learned-maintaining-javascript-monorepo-with-lerna/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/taming-lerna.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/things-i-have-learned-maintaining-javascript-monorepo-with-lerna/">Things I have learned while maintaining JavaScript monorepo with Lerna</a></p>
 <pre><code>Tue Sep 07 2021
-</code></pre>
-<hr>
-<p><a href="https://vladimirgorej.com/blog/how-to-validate-openapi-definitions-in-swagger-editor-using-github-actions/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-editor-validate.webp"></a></p>
-<p><a href="https://vladimirgorej.com/blog/how-to-validate-openapi-definitions-in-swagger-editor-using-github-actions/">How to validate OpenAPI definitions in Swagger Editor using GitHub Actions</a></p>
-<pre><code>Sun Mar 07 2021
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/">➡️ More blog posts</a></p>
