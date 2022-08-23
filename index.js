@@ -22,6 +22,7 @@ md.use(emoji);
 (async () => {
     const blogPosts = await loadBlogPosts();
     const twitterImage = `[![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=vladimirgorej&layout=wide&show_border=off)](${twitterUrl})`;
+    const websiteBadge = `[<img src="https://img.shields.io/badge/vladimirgorej.com-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=${badgeHeight}>](${websiteUrl})`;
     const twitterBadge = `[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=${badgeHeight}>](${twitterUrl})`;
     const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
     const mediumBadge = `[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=${badgeHeight}>](${mediumUrl})`;
@@ -30,10 +31,9 @@ md.use(emoji);
     const githubSponsors = `<a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">Sponsor me through GitHub</a>`;
     const githubStars = `[<img width="13%" height="13%" src="https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png" alt="GitHub Star programme member">](${githubStarUrl})`;
     const text = `# Hi :wave:\n\n
-  ${twitterBadge} ${linkedInBadge} ${mediumBadge} ${devToBadge}\n\n
+  ${websiteBadge} ${twitterBadge} ${linkedInBadge} ${mediumBadge} ${devToBadge}\n\n
   ${about}
   ${githubStars}
-  [:arrow_right: Check out my website](${websiteUrl})\n\n
   ${githubSponsors}\n\n
   ## Latest Blog Posts\n
   ${blogPosts}\n
