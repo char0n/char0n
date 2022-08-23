@@ -42,7 +42,8 @@ md.use(emoji);
   [:arrow_right: More tweets](${twitterUrl})
   \n\n
   ## GitHub Stats\n
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=char0n&show_icons=true)`;
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=char0n&show_icons=true&hide_border=true)
+  ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=char0n&show_icons=true&hide_border=true&layout=compact&langs_count=8)`;
 
     const result = md.render(text);
 
