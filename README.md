@@ -1,25 +1,24 @@
 <h1>Hi 👋</h1>
 <p><a href="https://www.twitter.com/vladimirgorej"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/vladimirgorej"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@vladimirgorej"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/char0n"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<p>
-  Vladimír Gorej is a Prague-based <strong>software engineer</strong> passionate about software/code quality,
-  Functional and Reactive programming. Vladimír is formerly Technical Team Lead of Oracle,
-  Principal Software Engineer at Apiary and held other senior engineering and leading roles in international
-  companies like Ubiquiti Networks or SecurityScorecard.
-  He's been active in the Open Source community for the last ten years and currently utilizes 
-  his experience in this field as an Open Source Software Engineer at SmartBear.
-  Vladimír holds all OpenSource Best Practices certifications awarded by The Linux Foundation 
-  and is a member of the <a href="https://stars.github.com/profiles/char0n/">GitHub Stars program</a>.
-  His favorite programming languages include <strong>JavaScript</strong>, <strong>Python</strong>, and <strong>Elixir</strong>.
-</p>
-<p align="center">
-  <a href="https://stars.github.com/profiles/char0n/">
-    <img width="13%" height="13%" src="https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png" alt="GitHub Star programme member" />
-  </a>
-</p>
+<pre><code>  &lt;p&gt;
+    Vladimír Gorej is a Prague-based &lt;strong&gt;software engineer&lt;/strong&gt; passionate about software/code quality,
+    Functional and Reactive programming. Vladimír is formerly Technical Team Lead of Oracle,
+    Principal Software Engineer at Apiary and held other senior engineering and leading roles in international
+    companies like Ubiquiti Networks or SecurityScorecard.
+    He's been active in the Open Source community for the last ten years and currently utilizes
+    his experience in this field as an Open Source Software Engineer at SmartBear.
+    Vladimír holds all OpenSource Best Practices certifications awarded by The Linux Foundation
+    and is a member of the &lt;a href=&quot;https://stars.github.com/profiles/char0n/&quot;&gt;GitHub Stars program&lt;/a&gt;.
+    His favorite programming languages include &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt;, and &lt;strong&gt;Elixir&lt;/strong&gt;.
+  &lt;/p&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://stars.github.com/profiles/char0n/&quot;&gt;
+        &lt;img width=&quot;13%&quot; height=&quot;13%&quot; src=&quot;https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png&quot; alt=&quot;GitHub Star programme member&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/p&gt;
+</code></pre>
 <p><a href="https://vladimirgorej.com/">➡️ Check out my website</a></p>
-<a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">
-  Sponsor me through GitHub
-</a>
+<p><a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">Sponsor me through GitHub</a></p>
 <h2>Latest Blog Posts</h2>
 <p><a href="https://vladimirgorej.com/blog/advanced-memoization-for-javascript-functions-with-lodash-memoize/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/lodash.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/advanced-memoization-for-javascript-functions-with-lodash-memoize/">Advanced memoization for JavaScript functions with lodash.memoize</a></p>
