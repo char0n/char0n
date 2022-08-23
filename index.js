@@ -37,8 +37,7 @@ md.use(emoji);
         and is a member of the [GitHub Stars program](${githubStarUrl}).
         His favorite programming languages include **JavaScript**, **Python, and **Elixir**.
 
-        [<img width="13%" height="13%" src="https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png" alt="GitHub Star programme member" />](${githubStarUrl})
-      </p>`;
+        [<img width="13%" height="13%" src="https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png" alt="GitHub Star programme member" />](${githubStarUrl})`;
     const githubSponsors = `<a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">Sponsor me through GitHub</a>`;
 
     const text = `# Hi :wave:\n\n
