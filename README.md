@@ -11,7 +11,6 @@
     His favorite programming languages include **JavaScript**, **Python, and **Elixir**.
 
     [&lt;img width=&quot;13%&quot; height=&quot;13%&quot; src=&quot;https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png&quot; alt=&quot;GitHub Star programme member&quot; /&gt;](https://stars.github.com/profiles/char0n/)
-  &lt;/p&gt;
 </code></pre>
 <p><a href="https://vladimirgorej.com/">➡️ Check out my website</a></p>
 <p><a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">Sponsor me through GitHub</a></p>
