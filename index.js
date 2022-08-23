@@ -26,15 +26,7 @@ md.use(emoji);
     const linkedInBadge = `[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](${linkedInUrl})`;
     const mediumBadge = `[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=${badgeHeight}>](${mediumUrl})`;
     const devToBadge = `[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=${badgeHeight}>](${devToUrl})`;
-    const about = `Vladimír Gorej is a Prague-based **software engineer** passionate about software/code quality,
-        Functional and Reactive programming. Vladimír is formerly Technical Team Lead of Oracle,
-        Principal Software Engineer at Apiary and held other senior engineering and leading roles in international
-        companies like Ubiquiti Networks or SecurityScorecard.
-        He's been active in the Open Source community for the last ten years and currently utilizes
-        his experience in this field as an Open Source Software Engineer at SmartBear.
-        Vladimír holds all OpenSource Best Practices certifications awarded by The Linux Foundation
-        and is a member of the [GitHub Stars program](${githubStarUrl}).
-        His favorite programming languages include **JavaScript**, **Python, and **Elixir**.`
+    const about = `Vladimír Gorej is a Prague-based **software engineer** passionate about software/code quality, Functional and Reactive programming. Vladimír is formerly Technical Team Lead of Oracle, Principal Software Engineer at Apiary and held other senior engineering and leading roles in international companies like Ubiquiti Networks or SecurityScorecard. He's been active in the Open Source community for the last ten years and currently utilizes his experience in this field as an Open Source Software Engineer at SmartBear. Vladimír holds all OpenSource Best Practices certifications awarded by The Linux Foundation and is a member of the [GitHub Stars program](${githubStarUrl}).      His favorite programming languages include **JavaScript**, **Python**, and **Elixir**.`;
     const githubSponsors = `<a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">Sponsor me through GitHub</a>`;
     const githubStars = `[<img width="13%" height="13%" src="https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png" alt="GitHub Star programme member">](${githubStarUrl})`;
     const text = `# Hi :wave:\n\n
