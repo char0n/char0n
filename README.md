@@ -34,5 +34,5 @@
 <p><a href="https://www.twitter.com/vladimirgorej"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=vladimirgorej&amp;layout=wide&amp;show_border=off" alt="github-readme-twitter"></a></p>
 <p><a href="https://www.twitter.com/vladimirgorej">➡️ More tweets</a></p>
 <h2>GitHub Stats</h2>
-<p>![GitHub Stats](<a href="https://github-readme-stats.vercel.app/api?username=char0n&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true">https://github-readme-stats.vercel.app/api?username=char0n&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true</a> =x180em)<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=char0n&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" alt="GitHub Most Used Languages"></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=char0n&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=char0n&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="GitHub most used languages" height="180em">
