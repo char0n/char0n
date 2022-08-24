@@ -29,7 +29,7 @@ md.use(emoji);
     const devToBadge = `[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=${badgeHeight}>](${devToUrl})`;
     const about = `Vladimír Gorej is a Prague-based **software engineer** passionate about software/code quality, Functional and Reactive programming. Vladimír is formerly Technical Team Lead of Oracle, Principal Software Engineer at Apiary and held other senior engineering and leading roles in international companies like Ubiquiti Networks or SecurityScorecard. He's been active in the Open Source community for the last ten years and currently utilizes his experience in this field as an Open Source Software Engineer at SmartBear. Vladimír holds all OpenSource Best Practices certifications awarded by The Linux Foundation and is a member of the [GitHub Stars program](${githubStarUrl}).      His favorite programming languages include **JavaScript**, **Python**, and **Elixir**.`;
     const githubSponsors = `<a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">:heart: Sponsor me through GitHub</a>`;
-    const githubStars = `[<img width="13%" height="13%" src="https://github.com/GitHub-Stars/program-details/raw/main/Assets/Logos/github-stars-logo_Color__on-white.png" alt="GitHub Star programme member">](${githubStarUrl})`;
+    const githubStars = `[<img width="13%" height="13%" src="https://user-images.githubusercontent.com/193286/186345071-d2c44d8e-646e-45d4-bceb-5610f089f119.png" alt="GitHub Star programme member">](${githubStarUrl})`;
     const text = `# Hi :wave:\n\n
   ${websiteBadge} ${twitterBadge} ${linkedInBadge} ${mediumBadge} ${devToBadge}\n\n
   ${about}
