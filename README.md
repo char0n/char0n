@@ -5,6 +5,11 @@
 <br><div><h2>SwaggerExpert</h2><p><a href="https://swaggerexpert.com/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/swagger-expert-logo.webp"></a></p><p>Vladimír is a <strong>founder</strong> of <a href="https://swaggerexpert.com/">SwaggerExpert</a>. SwaggerExpert is a community dedicated to developing extensions and libraries enhancing the Swagger ecosystem.</p><br><br></div></p>
   <div align="center"><div><a href="https://stars.github.com/alumni/#:~:text=char0n"><img width="13%" height="13%" src="https://user-images.githubusercontent.com/193286/186345071-d2c44d8e-646e-45d4-bceb-5610f089f119.png" alt="Alumni GitHub Star program member"></a></div><p><a href="https://github.com/sponsors/char0n" target="_blank" rel="noreferrer nofollow">❤️ Sponsor me through GitHub</a></p></div>
 <h2>Latest Blog Posts</h2>
+<p><a href="https://vladimirgorej.com/blog/from-packets-to-pixels-how-the-internet-actually-works/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/from-packets-to-pixels.webp"></a></p>
+<p><a href="https://vladimirgorej.com/blog/from-packets-to-pixels-how-the-internet-actually-works/">From packets to pixels: how the internet actually works</a></p>
+<pre><code>Wed Aug 05 2026
+</code></pre>
+<hr>
 <p><a href="https://vladimirgorej.com/blog/the-one-arazzo-condition-no-tool-can-evaluate-safely/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/arazzo-criterion.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/the-one-arazzo-condition-no-tool-can-evaluate-safely/">The one Arazzo condition no tool can evaluate safely</a></p>
 <pre><code>Wed Jul 08 2026
@@ -23,11 +28,6 @@
 <p><a href="https://vladimirgorej.com/blog/swagger-ui-error-handling/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/swagger-ui-error-handling.webp"></a></p>
 <p><a href="https://vladimirgorej.com/blog/swagger-ui-error-handling/">How to handle errors in SwaggerUI</a></p>
 <pre><code>Mon Jan 24 2022
-</code></pre>
-<hr>
-<p><a href="https://vladimirgorej.com/blog/how-to-migrate-from-querystring-to-url-search-params-in-nodejs/" target="_blank" rel="noreferrer nofollow"><img align="left" width="100" height="100" src="https://vladimirgorej.com/assets/img/blog/querystring-migration.webp"></a></p>
-<p><a href="https://vladimirgorej.com/blog/how-to-migrate-from-querystring-to-url-search-params-in-nodejs/">How to migrate from querystring to URLSearchParams in Node.js</a></p>
-<pre><code>Thu Oct 14 2021
 </code></pre>
 <hr>
 <p><a href="https://vladimirgorej.com/blog/">➡️ More blog posts</a></p>
